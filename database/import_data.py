@@ -9,7 +9,7 @@ db_config = {
     'host': 'localhost',
     'port': 3306,
     'user': 'root',
-    'password': 'motdepassesupersecret',
+    'password': 'CHANGE_ME',
     'database': 'ma_base_de_dev'
 }
 
